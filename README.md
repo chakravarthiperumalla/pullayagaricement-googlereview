@@ -35,12 +35,12 @@ No build step and no dependencies. Only the Google Fonts (Plus Jakarta Sans, Not
 
 | Item | Value |
 | --- | --- |
-| Address | Near Adi Lakshmi Amma Temple, Gunupudi, Bhimavaram, Andhra Pradesh 534201 |
+| Address | 18-10-3, Gandhi Nagar, Gunupudi, Bhimavaram, Andhra Pradesh 534201 |
 | Phone / WhatsApp | +91 81799 51999 |
-| Hours (per Google listing) | 9 AM – 9 PM, may differ on festival days |
-| Coordinates | 16.5405094, 81.5367524 |
-| Google Maps CID | `5900465120403943280` |
-| Google Place ID | `ChIJNy0G4evTNzoRcG9C18Op4lE` |
+| Hours (per Google listing) | 7:30 AM – 7:30 PM, may differ on festival days |
+| Coordinates | 16.5412239, 81.5264281 |
+| Google Maps CID | `12673521240897900903` |
+| Google Place ID | `ChIJYXtqRQDTNzoRZ1EW4Wtk4a8` |
 
 The review button uses `https://search.google.com/local/writereview?placeid=<Place ID>`, which opens the write-a-review box for this shop.
 
@@ -56,6 +56,6 @@ Open `index.html` and search for:
 
 ## Before sharing widely
 
-- Confirm that 81799 51999 is on WhatsApp.
+- Confirm that 81799 51999 is on WhatsApp. The current Google listing shows no phone number, so this number comes from the shop's earlier listing.
 - The logo was captured from the shop's Google Maps photos at 390 × 315 px. Replace the embedded image with the owner's original file for a sharper result.
 - Read the Telugu wording with a Telugu speaker before printing the QR.
